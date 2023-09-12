@@ -25,7 +25,7 @@
 - However, the Marketing Department have not yet been able to classify the segments of each customer to deploy each marketing program suitable for each customer group because the data set is too lagre.
 - The Marketing Director proposed using the RFM model and because the amount of data is too large so we have to build a flow to deploy Segmentation evaluation through Python programming.
 
-
+## II. Data Visualization 
 
 
 
