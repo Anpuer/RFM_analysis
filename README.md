@@ -26,7 +26,7 @@
 - The Marketing Director proposed using the RFM model and because the amount of data is too large so we have to build a flow to deploy Segmentation evaluation through Python programming.
 
 ## II. Data Visualization 
-(https://github.com/Anpuer/RFM_analysis/assets/144112015/0a57d59a-6bd5-4564-9b6b-a0064dde60a2)
+[alt](https://github.com/Anpuer/RFM_analysis/assets/144112015/0a57d59a-6bd5-4564-9b6b-a0064dde60a2)
 
 
 
