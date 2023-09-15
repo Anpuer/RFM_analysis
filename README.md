@@ -32,6 +32,7 @@
 ![avg date](https://github.com/Anpuer/RFM_analysis/assets/144112015/49a473b1-ceb3-48ac-8bb4-75852dd3c85a)
 ![avg freque](https://github.com/Anpuer/RFM_analysis/assets/144112015/9f5798c6-d939-4865-addd-2b66b27419ad)
 
+## III. Insight
 
 
 
