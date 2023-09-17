@@ -28,7 +28,7 @@
 ## II. Data Visualization 
 ![Count of Customer by segment](https://github.com/Anpuer/RFM_analysis/assets/144112015/00e6b8b6-8ff2-4b9e-a639-8f7f10f59f93)
 ![Treemap](https://github.com/Anpuer/RFM_analysis/assets/144112015/70c9e033-1420-4368-b426-1814203d4b80)
-![avg date](https://github.com/Anpuer/RFM_analysis/assets/144112015/62147340-6319-4cef-9798-584338c12f86)
+![avg sales](https://github.com/Anpuer/RFM_analysis/assets/144112015/6021d761-7701-47be-8625-c6451b647316)
 ![avg date](https://github.com/Anpuer/RFM_analysis/assets/144112015/49a473b1-ceb3-48ac-8bb4-75852dd3c85a)
 ![avg freque](https://github.com/Anpuer/RFM_analysis/assets/144112015/9f5798c6-d939-4865-addd-2b66b27419ad)
 
