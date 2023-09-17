@@ -33,7 +33,11 @@
 ![avg freque](https://github.com/Anpuer/RFM_analysis/assets/144112015/9f5798c6-d939-4865-addd-2b66b27419ad)
 
 ## III. Insight
-
+- Most of customers are in these groups:
+  - At Risk (19.92%) -> Negative
+  - New Customers (15.13%) -> Negative
+  - Potential Loyalist (12.61%) -> Positive
+  - Hibernating customers (11.38%) -> Negative
 
 
 
