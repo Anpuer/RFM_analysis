@@ -35,12 +35,17 @@
 
 ## III. Insight
 - Most of customers are in these groups:
-  - At Risk (19.92%) -> Negative
-  - New Customers (15.13%) -> Negative
-  - Potential Loyalist (12.61%) -> Positive
-  - Hibernating customers (11.38%) -> Negative
-  This is an early warning for businesses when up to 3/4 of customer groups show negative signs
-- The two most important customer segments that are predicted to bring the largest revenue and profit are **Champions** and **Loyal Customers**, but they only account for a small portion of customers.
+  - Potential Loyalist (14.88%) -> Positive
+  - At Risk (13.24%) -> Negative
+  - Hibernating customers (12.48%) -> Negative
+  - Champions (10.09%) -> Positive
+- The two most important customer segments that are predicted to bring the largest revenue and profit are **Champions** and **Loyal**, meanwhile **Loyal** segment only account for a small portion of customers (7.94%).
+- **Loyal** has a high frequency of purchases (only after **Champion**) but the most recent purchases are much farther than many segments (**Champion, Need Attention, New Customers, Potential Loyalist, Promising**).
+- The segments that spend the most money are: **Champion, Loyal, Potential Loyalist, At risk**. The **At risk** segment used to buy regularly but have not done so for a long time.
+- **New customers** have purchased products quite recently but have a low purchasing frequency and the profits this customer segment brings are not high.
+- With the retail store, the main task is always to grow in customers, market share, and revenue received from orders. **R** will be the index that businesses need to pay the most attention to because Superstore currently has a % of customers intending to abandon (recently at a high level). The higher this index is, the higher the customer's tendency to leave is found. It is a warning for businesses to change products to meet customer needs or change policies to improve service quality.
+
+## IV. Recommendations
 - 
 
 
