@@ -41,13 +41,18 @@
   - Champions (10.09%) -> Positive
 - The two most important customer segments that are predicted to bring the largest revenue and profit are **Champions** and **Loyal**, meanwhile **Loyal** segment only account for a small portion of customers (7.94%).
 - **Loyal** has a high frequency of purchases (only after **Champion**) but the most recent purchases are much farther than many segments (**Champion, Need Attention, New Customers, Potential Loyalist, Promising**).
-- The segments that spend the most money are: **Champion, Loyal, Potential Loyalist, At risk**. The **At risk** segment used to buy regularly but have not done so for a long time.
+- The segments that spend the most money are: **Champions, Loyal, Potential Loyalist, At risk**. The **At risk** segment used to buy regularly but have not done so for a long time.
 - **New customers** have purchased products quite recently but have a low purchasing frequency and the profits this customer segment brings are not high.
 - With the retail store, the main task is always to grow in customers, market share, and revenue received from orders. **R** will be the index that businesses need to pay the most attention to because Superstore currently has a % of customers intending to abandon (recently at a high level). The higher this index is, the higher the customer's tendency to leave is found. It is a warning for businesses to change products to meet customer needs or change policies to improve service quality.
 
 ## IV. Recommendations
-- 
-
+- The company needs to change product policies and offer more promotions to make them more diverse and attractive to each customer group. Here are a few recommendations across a few segments that I think businesses need to pay attention to
+  - **Champion**: Must retain these customers at all cost -> Propose customer equipment programs with different and highly personalized values, increase Customer Lifetime Value by recomending higher value items, product combos based on predictions from order history.
+  - **Loyal**: Find out why this customer segment often made purchases in the past but has not made purchases recently -> After classifying the customer file, you can send a survey email to find out with an accompanying reward of vouchers or promotional offers on future purchases.
+  - **At Risk**: This customer segment brings quite high profits, but only because the proportion is quite large, not because they buy a lot -> find out why they are not satisfied and do not return to buy.
+  - **Potential Loyalist**: accounts for the highest proportion, but doesn't spend too much -> find ways for them to increase the value of their shopping cart each time they make a purchase -> For example, give free gifts for transactions that exceed average order value threshold.
+- For new and promising customers, pay attention to initially create a closer relationship -> Send a thank you note, ask for a review from the order, attach a voucher,...
+- The cost of attracting new customers is much greater than the cost of retaining old customers -> This group of customers cannot be ignored. For customers in the remaining groups -> What makes them unhappy -> MKT deparment needs to do in-depth research on Customer churn Analysis, conjecturing the causes can come from many sides.
 
 
 
