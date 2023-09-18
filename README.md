@@ -38,8 +38,9 @@
   - New Customers (15.13%) -> Negative
   - Potential Loyalist (12.61%) -> Positive
   - Hibernating customers (11.38%) -> Negative
-
-
+  This is an early warning for businesses when up to 3/4 of customer groups show negative signs
+- The two most important customer segments that are predicted to bring the largest revenue and profit are **Champions** and **Loyal Customers**, but they only account for a small portion of customers.
+- 
 
 
 
