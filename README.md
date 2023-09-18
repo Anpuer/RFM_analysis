@@ -26,11 +26,12 @@
 - The Marketing Director proposed using the RFM model and because the amount of data is too large so we have to build a flow to deploy Segmentation evaluation through Python programming.
 
 ## II. Data Visualization 
-![Count of Customer by segment](https://github.com/Anpuer/RFM_analysis/assets/144112015/00e6b8b6-8ff2-4b9e-a639-8f7f10f59f93)
-![Treemap](https://github.com/Anpuer/RFM_analysis/assets/144112015/70c9e033-1420-4368-b426-1814203d4b80)
-![avg sales](https://github.com/Anpuer/RFM_analysis/assets/144112015/6021d761-7701-47be-8625-c6451b647316)
-![avg date](https://github.com/Anpuer/RFM_analysis/assets/144112015/49a473b1-ceb3-48ac-8bb4-75852dd3c85a)
-![avg freque](https://github.com/Anpuer/RFM_analysis/assets/144112015/9f5798c6-d939-4865-addd-2b66b27419ad)
+![Count of Customer by segment](https://github.com/Anpuer/RFM_analysis/assets/144112015/b42376ad-41d6-4b6e-b093-98571920e6ac)
+![Treemap](https://github.com/Anpuer/RFM_analysis/assets/144112015/e983aead-8562-41a6-8514-0b86520da2cb)
+![avg date](https://github.com/Anpuer/RFM_analysis/assets/144112015/14f103fc-28ae-4662-b3e8-7005670b4a72)
+![avg freque](https://github.com/Anpuer/RFM_analysis/assets/144112015/aebf7130-2ab9-454d-aaab-3ea235914e11)
+![avg sales](https://github.com/Anpuer/RFM_analysis/assets/144112015/7348a897-2a2a-421f-b8a7-f7429825dc42)
+
 
 ## III. Insight
 - Most of customers are in these groups:
